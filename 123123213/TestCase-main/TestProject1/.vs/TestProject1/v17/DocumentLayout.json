@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\123123213\\TestCase-main\\TestProject1\\",
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\eeeeeeee-main\\123123213\\TestCase-main\\TestProject1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED97CCA9-B2A5-4A72-B6CC-611A0A09A32B}|TestProject1\\TestProject1.csproj|c:\\users\\opilane\\source\\repos\\123123213\\testcase-main\\testproject1\\testproject1\\firsttestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED97CCA9-B2A5-4A72-B6CC-611A0A09A32B}|TestProject1\\TestProject1.csproj|c:\\users\\opilane\\source\\repos\\eeeeeeee-main\\123123213\\testcase-main\\testproject1\\testproject1\\firsttestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED97CCA9-B2A5-4A72-B6CC-611A0A09A32B}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\firsttestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED97CCA9-B2A5-4A72-B6CC-611A0A09A32B}|TestProject1\\TestProject1.csproj|C:\\Users\\opilane\\source\\repos\\123123213\\TestCase-main\\TestProject1\\testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{ED97CCA9-B2A5-4A72-B6CC-611A0A09A32B}|TestProject1\\TestProject1.csproj|c:\\users\\opilane\\source\\repos\\eeeeeeee-main\\123123213\\testcase-main\\testproject1\\testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{ED97CCA9-B2A5-4A72-B6CC-611A0A09A32B}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED97CCA9-B2A5-4A72-B6CC-611A0A09A32B}|TestProject1\\TestProject1.csproj|C:\\Users\\opilane\\source\\repos\\123123213\\TestCase-main\\TestProject1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED97CCA9-B2A5-4A72-B6CC-611A0A09A32B}|TestProject1\\TestProject1.csproj|c:\\users\\opilane\\source\\repos\\eeeeeeee-main\\123123213\\testcase-main\\testproject1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED97CCA9-B2A5-4A72-B6CC-611A0A09A32B}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,27 +49,30 @@
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "TestProject1.csproj",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\123123213\\TestCase-main\\TestProject1\\TestProject1\\TestProject1.csproj",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\eeeeeeee-main\\123123213\\TestCase-main\\TestProject1\\TestProject1\\TestProject1.csproj",
               "RelativeDocumentMoniker": "TestProject1\\TestProject1.csproj",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\123123213\\TestCase-main\\TestProject1\\TestProject1\\TestProject1.csproj",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\eeeeeeee-main\\123123213\\TestCase-main\\TestProject1\\TestProject1\\TestProject1.csproj",
               "RelativeToolTip": "TestProject1\\TestProject1.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-09T07:18:22.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T07:18:22.02Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FirstTestCase.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\123123213\\TestCase-main\\TestProject1\\TestProject1\\FirstTestCase.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\eeeeeeee-main\\123123213\\TestCase-main\\TestProject1\\TestProject1\\FirstTestCase.cs",
               "RelativeDocumentMoniker": "TestProject1\\FirstTestCase.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\123123213\\TestCase-main\\TestProject1\\TestProject1\\FirstTestCase.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\eeeeeeee-main\\123123213\\TestCase-main\\TestProject1\\TestProject1\\FirstTestCase.cs",
               "RelativeToolTip": "TestProject1\\FirstTestCase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T06:45:32.029Z",
               "EditorCaption": ""
@@ -78,14 +81,13 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\123123213\\TestCase-main\\TestProject1\\TestProject1\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\eeeeeeee-main\\123123213\\TestCase-main\\TestProject1\\TestProject1\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\123123213\\TestCase-main\\TestProject1\\TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\eeeeeeee-main\\123123213\\TestCase-main\\TestProject1\\TestProject1\\UnitTest1.cs",
               "RelativeToolTip": "TestProject1\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T05:57:39.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T05:57:39.448Z"
             }
           ]
         },
