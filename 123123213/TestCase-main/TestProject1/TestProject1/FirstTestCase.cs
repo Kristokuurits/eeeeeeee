@@ -3,7 +3,7 @@ using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Interactions;
 using System.Xml.Linq;
 
-namespace SeleniumMarken
+namespace TestProject1
 {
     public class FirstTestCase
     {
